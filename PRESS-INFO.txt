@@ -1,0 +1,56 @@
+TAMAGONG
+Press and Creator Kit
+Updated: 5 October 2026
+
+SHORT DESCRIPTION
+A monster-raising autobattler where you hatch, feed, and train your monsters,
+shape their builds, and discover powerful team synergies.
+
+ABOUT THE GAME
+Raise your monsters in Kernel Town and prepare a team for the tournament.
+Hatch eggs, feed and train your companions, and choose upgrades from their
+branching skill trees. Bring six monsters into battle, field three at a time,
+and choose a reserve when one of your active monsters falls.
+
+FACTS
+Developer and publisher: rigelriv
+Platform: Windows PC
+Planned release: 2027
+Genre: Monster raising, autobattler, RPG
+Mode: Single player
+Languages: English, German, Japanese, Korean, Portuguese (Brazil),
+Russian, Simplified Chinese, Spanish (Latin America).
+Steam: https://store.steampowered.com/app/5302820/Tamagong/
+Press and creator contact: rigelrivaldo.rr@gmail.com
+
+ASSET GUIDE
+logos/: Transparent title logos, app icon, and Fungi silhouette.
+screenshots/: Full-resolution PNG screenshots, not website thumbnails.
+character-cutouts/: A curated selection of individual transparent PNGs.
+Twelve expressive promotional reactions. No classic sprite exports.
+The reaction illustrations are promotional artwork, not in-game animations.
+This kit does not distribute the complete monster roster or animation sheets.
+key-art/: Arena thumbnail and wide promotional art.
+scene-backgrounds/: Three UI-free 1920x1080 scenic captures of the actual
+Beach, Gym and Wei Store visual layers, at custom promotional camera angles.
+These are background plates, not a demonstration of player camera controls.
+creator-overlays/: Blank transparent landscape and vertical frames, plus an
+empty lower-third panel, thumbnail callout and webcam frame.
+The callout and webcam frame include editable SVGs as well as PNGs.
+Keep your text, logo and character on separate layers.
+
+Video files are separate downloads, not included in the art ZIP.
+The approved official trailer and two gameplay GIFs are available on the page.
+
+These files are supplied for coverage and content about Tamagong.
+Credit the game and link to its Steam page where practical.
+Do not present the supplied artwork as your own original work.
+For other uses, contact rigelrivaldo.rr@gmail.com.
+
+SOURCE
+Public facts checked against the Tamagong Steam store page on 5 October 2026.
+Gameplay screenshots and scenic backgrounds use original game artwork.
+The reaction cutouts are AI-assisted promotional illustrations based on
+Chomp, Mousquet, Hushowl, Gogo, Magmurtle, Pilferret, Boarbarian, Fungi,
+Voltiger, Balmoth, Mantrance, and Quillory.
+They are not playable sprite assets.

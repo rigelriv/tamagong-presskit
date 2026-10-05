@@ -1,0 +1,266 @@
+{
+  "screenshots": [
+    {
+      "title": "Beach battle",
+      "alt": "A three-on-three battle by the sea.",
+      "url": "assets/screenshots/Tamagong_Battle_Beach.png",
+      "preview": "assets/previews/Tamagong_Battle_Beach.webp",
+      "dimensions": "1920 × 1080",
+      "size": "269 KB"
+    },
+    {
+      "title": "Gym battle",
+      "alt": "Monsters battle on the training ground.",
+      "url": "assets/screenshots/Tamagong_Battle_TrainingGym.png",
+      "preview": "assets/previews/Tamagong_Battle_TrainingGym.webp",
+      "dimensions": "1920 × 1080",
+      "size": "292 KB"
+    },
+    {
+      "title": "Kernel Arena",
+      "alt": "Tobi and his rival in the tournament arena.",
+      "url": "assets/screenshots/Tournament3D.png",
+      "preview": "assets/previews/Tournament3D.webp",
+      "dimensions": "2560 × 1437",
+      "size": "771 KB"
+    },
+    {
+      "title": "Branching builds",
+      "alt": "Gogo's branching skill tree.",
+      "url": "assets/screenshots/Gogo_SkillTree.png",
+      "preview": "assets/previews/Gogo_SkillTree.webp",
+      "dimensions": "2553 × 1440",
+      "size": "234 KB"
+    },
+    {
+      "title": "Kernel Town",
+      "alt": "The town, its locations, and the tournament clock.",
+      "url": "assets/screenshots/Overworld3D.png",
+      "preview": "assets/previews/Overworld3D.webp",
+      "dimensions": "2558 × 1440",
+      "size": "2.8 MB"
+    },
+    {
+      "title": "Wei Store",
+      "alt": "Eggs, supplies, and the people of Kernel Town.",
+      "url": "assets/screenshots/WeiStore3D.png",
+      "preview": "assets/previews/WeiStore3D.webp",
+      "dimensions": "2558 × 1440",
+      "size": "628 KB"
+    },
+    {
+      "title": "Training gym",
+      "alt": "The outdoor gym in Kernel Town.",
+      "url": "assets/screenshots/Gym3D.png",
+      "preview": "assets/previews/Gym3D.webp",
+      "dimensions": "2552 × 1438",
+      "size": "3.6 MB"
+    },
+    {
+      "title": "The dorm",
+      "alt": "Tobi's room between training and battles.",
+      "url": "assets/screenshots/Dorm.png",
+      "preview": "assets/previews/Dorm.webp",
+      "dimensions": "2550 × 1440",
+      "size": "878 KB"
+    }
+  ],
+  "cutouts": [
+    {
+      "name": "Chomp",
+      "title": "Oops!",
+      "alt": "Chomp looking embarrassed with a blue sweat drop.",
+      "kind": "reaction",
+      "png": "assets/character-cutouts/Chomp-Oops.png",
+      "dimensions": "1254 × 1254",
+      "size": "555 KB"
+    },
+    {
+      "name": "Mousquet",
+      "title": "The dramatic flop",
+      "alt": "Mousquet lying sideways in a comically dramatic crying pose.",
+      "kind": "reaction",
+      "png": "assets/character-cutouts/Mousquet-Dramatic-Flop.png",
+      "dimensions": "1254 × 1254",
+      "size": "556 KB"
+    },
+    {
+      "name": "Hushowl",
+      "title": "Not amused",
+      "alt": "Hushowl giving an unimpressed look with a small anger symbol.",
+      "kind": "reaction",
+      "png": "assets/character-cutouts/Hushowl-Not-Amused.png",
+      "dimensions": "1254 × 1254",
+      "size": "500 KB"
+    },
+    {
+      "name": "Gogo",
+      "title": "Unbothered",
+      "alt": "Gogo casually leaning back with a couple of gold sparkles.",
+      "kind": "reaction",
+      "png": "assets/character-cutouts/Gogo-Unbothered.png",
+      "dimensions": "1254 × 1254",
+      "size": "573 KB"
+    },
+    {
+      "name": "Magmurtle",
+      "title": "A little overheated",
+      "alt": "A flustered Magmurtle with comic steam wisps and a blue sweat drop.",
+      "kind": "reaction",
+      "png": "assets/character-cutouts/Magmurtle-Overheated.png",
+      "dimensions": "1254 × 1254",
+      "size": "713 KB"
+    },
+    {
+      "name": "Pilferret",
+      "title": "Caught in the act",
+      "alt": "Pilferret looking sheepish after getting caught, with a small sweat mark.",
+      "kind": "reaction",
+      "png": "assets/character-cutouts/Pilferret-Caught.png",
+      "dimensions": "1254 × 1254",
+      "size": "573 KB"
+    },
+    {
+      "name": "Boarbarian",
+      "title": "Definitely hangry",
+      "alt": "Boarbarian in a comically frustrated pose with an orange anger mark.",
+      "kind": "reaction",
+      "png": "assets/character-cutouts/Boarbarian-Hangry.png",
+      "dimensions": "1254 × 1254",
+      "size": "694 KB"
+    },
+    {
+      "name": "Fungi",
+      "title": "Tiny victory dance",
+      "alt": "Fungi celebrating with a joyful bounce and a few gold sparkles.",
+      "kind": "reaction",
+      "png": "assets/character-cutouts/Fungi-Celebrating.png",
+      "dimensions": "1254 × 1254",
+      "size": "634 KB"
+    },
+    {
+      "name": "Voltiger",
+      "title": "Five more minutes",
+      "alt": "Voltiger curled up asleep, with small blue sleep bubbles.",
+      "kind": "reaction",
+      "png": "assets/character-cutouts/Voltiger-Sleepy.png",
+      "dimensions": "1254 × 1254",
+      "size": "572 KB"
+    },
+    {
+      "name": "Balmoth",
+      "title": "You've got this",
+      "alt": "A cheerful Balmoth with open green wings and a pink heart.",
+      "kind": "reaction",
+      "png": "assets/character-cutouts/Balmoth-Encouraging.png",
+      "dimensions": "1254 × 1254",
+      "size": "611 KB"
+    },
+    {
+      "name": "Mantrance",
+      "title": "Wait, what?",
+      "alt": "A wobbly Mantrance looking confused with small swirl and star accents.",
+      "kind": "reaction",
+      "png": "assets/character-cutouts/Mantrance-Dizzy.png",
+      "dimensions": "1254 × 1254",
+      "size": "392 KB"
+    },
+    {
+      "name": "Quillory",
+      "title": "Can't touch this",
+      "alt": "Quillory smiling smugly with folded arms and a gold shine.",
+      "kind": "reaction",
+      "png": "assets/character-cutouts/Quillory-Smug.png",
+      "dimensions": "1254 × 1254",
+      "size": "705 KB"
+    }
+  ],
+  "sceneBackgrounds": [
+    {
+      "title": "Palm Cove shoreline",
+      "alt": "The beach, turquoise sea, fish shadows and camp canopy.",
+      "url": "assets/scene-backgrounds/Beach-Shoreline.png",
+      "preview": "assets/previews/Beach-Shoreline.webp",
+      "dimensions": "1920 × 1080",
+      "size": "2.8 MB"
+    },
+    {
+      "title": "A place to train",
+      "alt": "A closer scenic view of the gym's punch bag, weights and water pump.",
+      "url": "assets/scene-backgrounds/Gym-Training-Corner.png",
+      "preview": "assets/previews/Gym-Training-Corner.webp",
+      "dimensions": "1920 × 1080",
+      "size": "3.3 MB"
+    },
+    {
+      "title": "A new beginning",
+      "alt": "Wei Store's colourful shelves, egg displays and incubator.",
+      "url": "assets/scene-backgrounds/WeiStore-Egg-Counter.png",
+      "preview": "assets/previews/WeiStore-Egg-Counter.webp",
+      "dimensions": "1920 × 1080",
+      "size": "806 KB"
+    }
+  ],
+  "components": [
+    {
+      "title": "Thumbnail callout",
+      "alt": "A blank pale-blue callout panel with a gold label tab and green corner accents.",
+      "png": "assets/creator-overlays/Thumbnail-Callout-960x600.png",
+      "svg": "assets/creator-overlays/Thumbnail-Callout-960x600.svg",
+      "dimensions": "960 × 600",
+      "note": "Add your headline and a reaction cutout."
+    },
+    {
+      "title": "Webcam frame",
+      "alt": "A transparent webcam frame with teal borders and an empty name strip.",
+      "png": "assets/creator-overlays/Webcam-Frame-640x520.png",
+      "svg": "assets/creator-overlays/Webcam-Frame-640x520.svg",
+      "dimensions": "640 × 520",
+      "note": "4:3 camera opening. Separate blank name strip."
+    },
+    {
+      "title": "Landscape frame",
+      "alt": "Blank landscape frame with teal borders and green corner brackets.",
+      "png": "assets/creator-overlays/Frame-Landscape-1920x1080.png",
+      "dimensions": "1920 × 1080",
+      "note": "A light frame for gameplay or a thumbnail."
+    },
+    {
+      "title": "Vertical frame",
+      "alt": "Blank vertical frame with teal borders and green corner brackets.",
+      "png": "assets/creator-overlays/Frame-Vertical-1080x1920.png",
+      "dimensions": "1080 × 1920",
+      "note": "A matching frame for Shorts and vertical posts."
+    },
+    {
+      "title": "Blank lower third",
+      "alt": "A blank pale-blue lower-third panel with teal borders.",
+      "png": "assets/creator-overlays/Blank-Lower-Third-1600x260.png",
+      "dimensions": "1600 × 260",
+      "note": "A separate plate for a name, quote, or caption."
+    }
+  ],
+  "packs": {
+    "logos": {
+      "url": "downloads/Tamagong-Logos.zip",
+      "size": "51 KB"
+    },
+    "screenshots": {
+      "url": "downloads/Tamagong-Screenshots.zip",
+      "size": "9.3 MB"
+    },
+    "characters": {
+      "url": "downloads/Tamagong-Characters.zip",
+      "size": "6.7 MB"
+    },
+    "creator": {
+      "url": "downloads/Tamagong-Creator.zip",
+      "size": "8.9 MB"
+    },
+    "all": {
+      "url": "downloads/Tamagong-All.zip",
+      "size": "24.9 MB"
+    }
+  },
+  "trailerSize": "79.2 MB"
+}
