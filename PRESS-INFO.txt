@@ -1,6 +1,6 @@
 TAMAGONG
 Press and Creator Kit
-Updated: 5 October 2026
+Updated: 15 October 2026
 
 SHORT DESCRIPTION
 A monster-raising autobattler where you hatch, feed, and train your monsters,
@@ -29,6 +29,11 @@ screenshots/: Full-resolution PNG screenshots, not website thumbnails.
 character-cutouts/: A curated selection of individual transparent PNGs.
 Twelve expressive promotional reactions. No classic sprite exports.
 The reaction illustrations are promotional artwork, not in-game animations.
+npc-portraits/: Fifteen selected NPCs, with Neutral, Angry, Sad and Happy
+expressions exported individually from the actual in-game dialogue portraits.
+Includes Kernel Town residents, travelling sellers, and Thugs 1, 2 and 3.
+Each PNG retains its original resolution and transparent expression-frame padding.
+The NPC portrait pack is available separately and in the character and complete kits.
 This kit does not distribute the complete monster roster or animation sheets.
 key-art/: Arena thumbnail and wide promotional art.
 scene-backgrounds/: Three UI-free 1920x1080 scenic captures of the actual

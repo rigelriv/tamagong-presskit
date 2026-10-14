@@ -251,7 +251,7 @@
     },
     "characters": {
       "url": "downloads/Tamagong-Characters.zip",
-      "size": "6.7 MB"
+      "size": "22.9 MB"
     },
     "creator": {
       "url": "downloads/Tamagong-Creator.zip",
@@ -259,8 +259,509 @@
     },
     "all": {
       "url": "downloads/Tamagong-All.zip",
-      "size": "24.9 MB"
+      "size": "41.1 MB"
+    },
+    "portraits": {
+      "url": "downloads/Tamagong-Portraits.zip",
+      "size": "16.2 MB"
     }
   },
-  "trailerSize": "79.2 MB"
+  "trailerSize": "79.2 MB",
+  "npcPortraits": [
+    {
+      "name": "Mira",
+      "id": "Mira",
+      "group": "town",
+      "dimensions": "543 × 724",
+      "kind": "portrait",
+      "expressions": [
+        {
+          "expression": "Neutral",
+          "png": "assets/npc-portraits/Mira-Neutral.png",
+          "alt": "Mira, neutral in-game dialogue portrait.",
+          "size": "317 KB"
+        },
+        {
+          "expression": "Angry",
+          "png": "assets/npc-portraits/Mira-Angry.png",
+          "alt": "Mira, angry in-game dialogue portrait.",
+          "size": "321 KB"
+        },
+        {
+          "expression": "Sad",
+          "png": "assets/npc-portraits/Mira-Sad.png",
+          "alt": "Mira, sad in-game dialogue portrait.",
+          "size": "322 KB"
+        },
+        {
+          "expression": "Happy",
+          "png": "assets/npc-portraits/Mira-Happy.png",
+          "alt": "Mira, happy in-game dialogue portrait.",
+          "size": "319 KB"
+        }
+      ]
+    },
+    {
+      "name": "Matt",
+      "id": "Matt",
+      "group": "town",
+      "dimensions": "543 × 724",
+      "kind": "portrait",
+      "expressions": [
+        {
+          "expression": "Neutral",
+          "png": "assets/npc-portraits/Matt-Neutral.png",
+          "alt": "Matt, neutral in-game dialogue portrait.",
+          "size": "250 KB"
+        },
+        {
+          "expression": "Angry",
+          "png": "assets/npc-portraits/Matt-Angry.png",
+          "alt": "Matt, angry in-game dialogue portrait.",
+          "size": "251 KB"
+        },
+        {
+          "expression": "Sad",
+          "png": "assets/npc-portraits/Matt-Sad.png",
+          "alt": "Matt, sad in-game dialogue portrait.",
+          "size": "252 KB"
+        },
+        {
+          "expression": "Happy",
+          "png": "assets/npc-portraits/Matt-Happy.png",
+          "alt": "Matt, happy in-game dialogue portrait.",
+          "size": "250 KB"
+        }
+      ]
+    },
+    {
+      "name": "Natsumi",
+      "id": "Natsumi",
+      "group": "town",
+      "dimensions": "533 × 736",
+      "kind": "portrait",
+      "expressions": [
+        {
+          "expression": "Neutral",
+          "png": "assets/npc-portraits/Natsumi-Neutral.png",
+          "alt": "Natsumi, neutral in-game dialogue portrait.",
+          "size": "273 KB"
+        },
+        {
+          "expression": "Angry",
+          "png": "assets/npc-portraits/Natsumi-Angry.png",
+          "alt": "Natsumi, angry in-game dialogue portrait.",
+          "size": "274 KB"
+        },
+        {
+          "expression": "Sad",
+          "png": "assets/npc-portraits/Natsumi-Sad.png",
+          "alt": "Natsumi, sad in-game dialogue portrait.",
+          "size": "275 KB"
+        },
+        {
+          "expression": "Happy",
+          "png": "assets/npc-portraits/Natsumi-Happy.png",
+          "alt": "Natsumi, happy in-game dialogue portrait.",
+          "size": "273 KB"
+        }
+      ]
+    },
+    {
+      "name": "Elliot",
+      "id": "Elliot",
+      "group": "town",
+      "dimensions": "543 × 724",
+      "kind": "portrait",
+      "expressions": [
+        {
+          "expression": "Neutral",
+          "png": "assets/npc-portraits/Elliot-Neutral.png",
+          "alt": "Elliot, neutral in-game dialogue portrait.",
+          "size": "250 KB"
+        },
+        {
+          "expression": "Angry",
+          "png": "assets/npc-portraits/Elliot-Angry.png",
+          "alt": "Elliot, angry in-game dialogue portrait.",
+          "size": "252 KB"
+        },
+        {
+          "expression": "Sad",
+          "png": "assets/npc-portraits/Elliot-Sad.png",
+          "alt": "Elliot, sad in-game dialogue portrait.",
+          "size": "251 KB"
+        },
+        {
+          "expression": "Happy",
+          "png": "assets/npc-portraits/Elliot-Happy.png",
+          "alt": "Elliot, happy in-game dialogue portrait.",
+          "size": "251 KB"
+        }
+      ]
+    },
+    {
+      "name": "Dayo",
+      "id": "Dayo",
+      "group": "town",
+      "dimensions": "543 × 724",
+      "kind": "portrait",
+      "expressions": [
+        {
+          "expression": "Neutral",
+          "png": "assets/npc-portraits/Dayo-Neutral.png",
+          "alt": "Dayo, neutral in-game dialogue portrait.",
+          "size": "294 KB"
+        },
+        {
+          "expression": "Angry",
+          "png": "assets/npc-portraits/Dayo-Angry.png",
+          "alt": "Dayo, angry in-game dialogue portrait.",
+          "size": "297 KB"
+        },
+        {
+          "expression": "Sad",
+          "png": "assets/npc-portraits/Dayo-Sad.png",
+          "alt": "Dayo, sad in-game dialogue portrait.",
+          "size": "296 KB"
+        },
+        {
+          "expression": "Happy",
+          "png": "assets/npc-portraits/Dayo-Happy.png",
+          "alt": "Dayo, happy in-game dialogue portrait.",
+          "size": "293 KB"
+        }
+      ]
+    },
+    {
+      "name": "Bob",
+      "id": "Bob",
+      "group": "town",
+      "dimensions": "543 × 724",
+      "kind": "portrait",
+      "expressions": [
+        {
+          "expression": "Neutral",
+          "png": "assets/npc-portraits/Bob-Neutral.png",
+          "alt": "Bob, neutral in-game dialogue portrait.",
+          "size": "230 KB"
+        },
+        {
+          "expression": "Angry",
+          "png": "assets/npc-portraits/Bob-Angry.png",
+          "alt": "Bob, angry in-game dialogue portrait.",
+          "size": "233 KB"
+        },
+        {
+          "expression": "Sad",
+          "png": "assets/npc-portraits/Bob-Sad.png",
+          "alt": "Bob, sad in-game dialogue portrait.",
+          "size": "233 KB"
+        },
+        {
+          "expression": "Happy",
+          "png": "assets/npc-portraits/Bob-Happy.png",
+          "alt": "Bob, happy in-game dialogue portrait.",
+          "size": "229 KB"
+        }
+      ]
+    },
+    {
+      "name": "Niko",
+      "id": "Niko",
+      "group": "town",
+      "dimensions": "543 × 724",
+      "kind": "portrait",
+      "expressions": [
+        {
+          "expression": "Neutral",
+          "png": "assets/npc-portraits/Niko-Neutral.png",
+          "alt": "Niko, neutral in-game dialogue portrait.",
+          "size": "239 KB"
+        },
+        {
+          "expression": "Angry",
+          "png": "assets/npc-portraits/Niko-Angry.png",
+          "alt": "Niko, angry in-game dialogue portrait.",
+          "size": "242 KB"
+        },
+        {
+          "expression": "Sad",
+          "png": "assets/npc-portraits/Niko-Sad.png",
+          "alt": "Niko, sad in-game dialogue portrait.",
+          "size": "241 KB"
+        },
+        {
+          "expression": "Happy",
+          "png": "assets/npc-portraits/Niko-Happy.png",
+          "alt": "Niko, happy in-game dialogue portrait.",
+          "size": "237 KB"
+        }
+      ]
+    },
+    {
+      "name": "Mr. Wei",
+      "id": "MrWei",
+      "group": "town",
+      "dimensions": "543 × 724",
+      "kind": "portrait",
+      "expressions": [
+        {
+          "expression": "Neutral",
+          "png": "assets/npc-portraits/MrWei-Neutral.png",
+          "alt": "Mr. Wei, neutral in-game dialogue portrait.",
+          "size": "256 KB"
+        },
+        {
+          "expression": "Angry",
+          "png": "assets/npc-portraits/MrWei-Angry.png",
+          "alt": "Mr. Wei, angry in-game dialogue portrait.",
+          "size": "258 KB"
+        },
+        {
+          "expression": "Sad",
+          "png": "assets/npc-portraits/MrWei-Sad.png",
+          "alt": "Mr. Wei, sad in-game dialogue portrait.",
+          "size": "258 KB"
+        },
+        {
+          "expression": "Happy",
+          "png": "assets/npc-portraits/MrWei-Happy.png",
+          "alt": "Mr. Wei, happy in-game dialogue portrait.",
+          "size": "258 KB"
+        }
+      ]
+    },
+    {
+      "name": "Popo",
+      "id": "Popo",
+      "group": "town",
+      "dimensions": "512 × 768",
+      "kind": "portrait",
+      "expressions": [
+        {
+          "expression": "Neutral",
+          "png": "assets/npc-portraits/Popo-Neutral.png",
+          "alt": "Popo, neutral in-game dialogue portrait.",
+          "size": "368 KB"
+        },
+        {
+          "expression": "Angry",
+          "png": "assets/npc-portraits/Popo-Angry.png",
+          "alt": "Popo, angry in-game dialogue portrait.",
+          "size": "374 KB"
+        },
+        {
+          "expression": "Sad",
+          "png": "assets/npc-portraits/Popo-Sad.png",
+          "alt": "Popo, sad in-game dialogue portrait.",
+          "size": "375 KB"
+        },
+        {
+          "expression": "Happy",
+          "png": "assets/npc-portraits/Popo-Happy.png",
+          "alt": "Popo, happy in-game dialogue portrait.",
+          "size": "372 KB"
+        }
+      ]
+    },
+    {
+      "name": "Monster Merchant",
+      "id": "MonsterMerchant",
+      "group": "travellers",
+      "dimensions": "543 × 724",
+      "kind": "portrait",
+      "expressions": [
+        {
+          "expression": "Neutral",
+          "png": "assets/npc-portraits/MonsterMerchant-Neutral.png",
+          "alt": "Monster Merchant, neutral in-game dialogue portrait.",
+          "size": "253 KB"
+        },
+        {
+          "expression": "Angry",
+          "png": "assets/npc-portraits/MonsterMerchant-Angry.png",
+          "alt": "Monster Merchant, angry in-game dialogue portrait.",
+          "size": "253 KB"
+        },
+        {
+          "expression": "Sad",
+          "png": "assets/npc-portraits/MonsterMerchant-Sad.png",
+          "alt": "Monster Merchant, sad in-game dialogue portrait.",
+          "size": "251 KB"
+        },
+        {
+          "expression": "Happy",
+          "png": "assets/npc-portraits/MonsterMerchant-Happy.png",
+          "alt": "Monster Merchant, happy in-game dialogue portrait.",
+          "size": "254 KB"
+        }
+      ]
+    },
+    {
+      "name": "Mysterious Seller",
+      "id": "MysteriousSeller",
+      "group": "travellers",
+      "dimensions": "543 × 724",
+      "kind": "portrait",
+      "expressions": [
+        {
+          "expression": "Neutral",
+          "png": "assets/npc-portraits/MysteriousSeller-Neutral.png",
+          "alt": "Mysterious Seller, neutral in-game dialogue portrait.",
+          "size": "305 KB"
+        },
+        {
+          "expression": "Angry",
+          "png": "assets/npc-portraits/MysteriousSeller-Angry.png",
+          "alt": "Mysterious Seller, angry in-game dialogue portrait.",
+          "size": "303 KB"
+        },
+        {
+          "expression": "Sad",
+          "png": "assets/npc-portraits/MysteriousSeller-Sad.png",
+          "alt": "Mysterious Seller, sad in-game dialogue portrait.",
+          "size": "303 KB"
+        },
+        {
+          "expression": "Happy",
+          "png": "assets/npc-portraits/MysteriousSeller-Happy.png",
+          "alt": "Mysterious Seller, happy in-game dialogue portrait.",
+          "size": "304 KB"
+        }
+      ]
+    },
+    {
+      "name": "Craftsman",
+      "id": "Craftsman",
+      "group": "travellers",
+      "dimensions": "543 × 724",
+      "kind": "portrait",
+      "expressions": [
+        {
+          "expression": "Neutral",
+          "png": "assets/npc-portraits/Craftsman-Neutral.png",
+          "alt": "Craftsman, neutral in-game dialogue portrait.",
+          "size": "334 KB"
+        },
+        {
+          "expression": "Angry",
+          "png": "assets/npc-portraits/Craftsman-Angry.png",
+          "alt": "Craftsman, angry in-game dialogue portrait.",
+          "size": "335 KB"
+        },
+        {
+          "expression": "Sad",
+          "png": "assets/npc-portraits/Craftsman-Sad.png",
+          "alt": "Craftsman, sad in-game dialogue portrait.",
+          "size": "339 KB"
+        },
+        {
+          "expression": "Happy",
+          "png": "assets/npc-portraits/Craftsman-Happy.png",
+          "alt": "Craftsman, happy in-game dialogue portrait.",
+          "size": "354 KB"
+        }
+      ]
+    },
+    {
+      "name": "Thug 1",
+      "id": "Thug1",
+      "group": "thugs",
+      "dimensions": "543 × 724",
+      "kind": "portrait",
+      "expressions": [
+        {
+          "expression": "Neutral",
+          "png": "assets/npc-portraits/Thug1-Neutral.png",
+          "alt": "Thug 1, neutral in-game dialogue portrait.",
+          "size": "233 KB"
+        },
+        {
+          "expression": "Angry",
+          "png": "assets/npc-portraits/Thug1-Angry.png",
+          "alt": "Thug 1, angry in-game dialogue portrait.",
+          "size": "235 KB"
+        },
+        {
+          "expression": "Sad",
+          "png": "assets/npc-portraits/Thug1-Sad.png",
+          "alt": "Thug 1, sad in-game dialogue portrait.",
+          "size": "234 KB"
+        },
+        {
+          "expression": "Happy",
+          "png": "assets/npc-portraits/Thug1-Happy.png",
+          "alt": "Thug 1, happy in-game dialogue portrait.",
+          "size": "234 KB"
+        }
+      ]
+    },
+    {
+      "name": "Thug 2",
+      "id": "Thug2",
+      "group": "thugs",
+      "dimensions": "543 × 724",
+      "kind": "portrait",
+      "expressions": [
+        {
+          "expression": "Neutral",
+          "png": "assets/npc-portraits/Thug2-Neutral.png",
+          "alt": "Thug 2, neutral in-game dialogue portrait.",
+          "size": "247 KB"
+        },
+        {
+          "expression": "Angry",
+          "png": "assets/npc-portraits/Thug2-Angry.png",
+          "alt": "Thug 2, angry in-game dialogue portrait.",
+          "size": "247 KB"
+        },
+        {
+          "expression": "Sad",
+          "png": "assets/npc-portraits/Thug2-Sad.png",
+          "alt": "Thug 2, sad in-game dialogue portrait.",
+          "size": "249 KB"
+        },
+        {
+          "expression": "Happy",
+          "png": "assets/npc-portraits/Thug2-Happy.png",
+          "alt": "Thug 2, happy in-game dialogue portrait.",
+          "size": "249 KB"
+        }
+      ]
+    },
+    {
+      "name": "Thug 3",
+      "id": "Thug3",
+      "group": "thugs",
+      "dimensions": "543 × 724",
+      "kind": "portrait",
+      "expressions": [
+        {
+          "expression": "Neutral",
+          "png": "assets/npc-portraits/Thug3-Neutral.png",
+          "alt": "Thug 3, neutral in-game dialogue portrait.",
+          "size": "291 KB"
+        },
+        {
+          "expression": "Angry",
+          "png": "assets/npc-portraits/Thug3-Angry.png",
+          "alt": "Thug 3, angry in-game dialogue portrait.",
+          "size": "294 KB"
+        },
+        {
+          "expression": "Sad",
+          "png": "assets/npc-portraits/Thug3-Sad.png",
+          "alt": "Thug 3, sad in-game dialogue portrait.",
+          "size": "293 KB"
+        },
+        {
+          "expression": "Happy",
+          "png": "assets/npc-portraits/Thug3-Happy.png",
+          "alt": "Thug 3, happy in-game dialogue portrait.",
+          "size": "289 KB"
+        }
+      ]
+    }
+  ]
 }

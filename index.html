@@ -84,9 +84,22 @@
       </div>
     </div>
     <div id="panel-monsters" role="tabpanel" aria-labelledby="tab-monsters" class="asset-panel" hidden>
-      <div class="category-heading"><p>A little attitude for your thumbnails, videos, and posts.</p><a class="text-link" data-pack="characters" href="downloads/Tamagong-Characters.zip" download>Download character pack <span data-size="characters"></span></a></div>
-      <div id="cutout-grid" class="cutout-grid"></div>
-      <p class="section-note">Reaction illustrations are promotional artwork, not in-game animations. Every cutout is an individual transparent PNG.</p>
+      <div class="category-heading"><p>Town faces and monster reactions for your thumbnails, videos, and posts.</p><a class="text-link" data-pack="characters" href="downloads/Tamagong-Characters.zip" download>Download character pack <span data-size="characters"></span></a></div>
+      <div class="character-switch" role="group" aria-label="Character asset type">
+        <button type="button" data-character-group="portraits" aria-pressed="true" aria-controls="npc-portraits">NPC portraits</button>
+        <button type="button" data-character-group="reactions" aria-pressed="false" aria-controls="monster-reactions">Monster reactions</button>
+      </div>
+      <div id="npc-portraits">
+        <div class="category-heading"><p>Actual in-game dialogue portraits. Choose an expression, then download its transparent PNG.</p><a class="text-link" data-pack="portraits" href="downloads/Tamagong-Portraits.zip" download>Download NPC portraits <span data-size="portraits"></span></a></div>
+        <div class="asset-group"><h3 class="asset-group-title">Kernel Town</h3><div id="portrait-town" class="cutout-grid"></div></div>
+        <div class="asset-group"><h3 class="asset-group-title">Travelling sellers</h3><div id="portrait-travellers" class="cutout-grid"></div></div>
+        <div class="asset-group"><h3 class="asset-group-title">Thugs</h3><div id="portrait-thugs" class="cutout-grid"></div></div>
+        <p class="section-note">15 NPCs, four expressions each. Individual portrait PNGs at their original resolution, not sprite or animation sheets.</p>
+      </div>
+      <div id="monster-reactions" hidden>
+        <div id="cutout-grid" class="cutout-grid"></div>
+        <p class="section-note">Reaction illustrations are promotional artwork, not in-game animations. Every cutout is an individual transparent PNG.</p>
+      </div>
     </div>
     <div id="panel-creator" role="tabpanel" aria-labelledby="tab-creator" class="asset-panel" hidden>
       <div class="category-heading"><p>Pick a scene, add a reaction, and keep your title on its own layer.</p><a class="text-link" data-pack="creator" href="downloads/Tamagong-Creator.zip" download>Download art & overlays <span data-size="creator"></span></a></div>
@@ -115,7 +128,7 @@
     <div class="asset-use"><h3>Using these assets</h3><p>You’re welcome to use this kit for coverage and content about Tamagong. Credit the game and link to its Steam page where practical.</p><p>For other uses, please get in touch.</p><a class="text-link" href="PRESS-INFO.txt" download>Download game information</a></div>
   </section>
 </main>
-<footer class="page-footer"><span>© 2026 rigelriv · Tamagong</span><span>Press kit updated 5 October 2026</span><a href="#top">Back to top</a></footer>
+<footer class="page-footer"><span>© 2026 rigelriv · Tamagong</span><span>Press kit updated 15 October 2026</span><a href="#top">Back to top</a></footer>
 <dialog id="lightbox" aria-labelledby="lightbox-title">
   <div class="lightbox-top"><h2 id="lightbox-title"></h2><button id="close-lightbox" class="button outline" aria-label="Close screenshot">Close</button></div>
   <img id="lightbox-image" alt="">

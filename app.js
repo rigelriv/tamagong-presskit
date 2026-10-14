@@ -54,6 +54,18 @@ tabs.forEach((tab, index) => {
     if (next !== null) { event.preventDefault(); selectTab(tabs[next], true); }
   });
 });
+const characterGroups = Array.from(document.querySelectorAll("[data-character-group]"));
+characterGroups.forEach(button => {
+  button.addEventListener("click", () => {
+    const portraits = button.dataset.characterGroup === "portraits";
+    characterGroups.forEach(option => option.setAttribute("aria-pressed", String(option === button)));
+    document.querySelector("#npc-portraits").hidden = !portraits;
+    document.querySelector("#monster-reactions").hidden = portraits;
+  });
+});
+if (location.hash === "#npc-portraits") {
+  selectTab(document.querySelector('[data-tab="monsters"]'), false);
+}
 document.querySelectorAll("[data-copy]").forEach(button => {
   button.addEventListener("click", async () => {
     const text = button.dataset.copy === "email" ? contactEmail : shortDescription;
@@ -108,6 +120,45 @@ async function renderAssets() {
     grid.append(card);
   });
   const cutouts = document.querySelector("#cutout-grid");
+  (data.npcPortraits || []).forEach(portrait => {
+    const card = el("article", "asset-card cutout-card portrait-card");
+    card.dataset.npc = portrait.id;
+    const preview = el("div", "asset-preview portrait-preview checker");
+    const image = el("img");
+    image.loading = "lazy";
+    const [width, height] = portrait.dimensions.split(" × ").map(Number);
+    image.width = width;
+    image.height = height;
+    preview.append(image);
+    const info = el("div", "asset-card-info");
+    const current = el("span", "portrait-current");
+    const download = link("", "");
+    const choices = el("div", "expression-choices");
+    choices.setAttribute("role", "group");
+    choices.setAttribute("aria-label", portrait.name + " expression");
+    const buttons = [];
+    function selectExpression(frame, index) {
+      image.src = frame.png;
+      image.alt = frame.alt;
+      current.textContent = frame.expression + " · " + portrait.dimensions + " · Transparent PNG";
+      download.href = frame.png;
+      download.textContent = "Download " + frame.expression.toLowerCase() + " PNG";
+      download.setAttribute("aria-label", "Download " + portrait.name + ", " + frame.expression.toLowerCase() + " portrait");
+      buttons.forEach((button, at) => button.setAttribute("aria-pressed", String(at === index)));
+    }
+    portrait.expressions.forEach((frame, index) => {
+      const button = el("button", "", frame.expression);
+      button.type = "button";
+      button.setAttribute("aria-label", portrait.name + ": " + frame.expression);
+      button.addEventListener("click", () => selectExpression(frame, index));
+      buttons.push(button);
+      choices.append(button);
+    });
+    selectExpression(portrait.expressions[0], 0);
+    info.append(el("h3", "", portrait.name), current, choices, download);
+    card.append(preview, info);
+    document.querySelector("#portrait-" + portrait.group).append(card);
+  });
   (data.cutouts || []).forEach(cutout => {
     const card = el("article", "asset-card cutout-card");
     const preview = el("div", "asset-preview reaction-preview checker");
